@@ -1,4 +1,4 @@
-문서정보 : 2023.08.31. 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
+문서정보 : 2023.09.06. 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
 
 <br>
 
